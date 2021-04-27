@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ Loser
-- 👀 I’m interested in nothing
+- 👀 I’m interested in everything.
 - 🌱 I’m currently learning **failogy**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Meet me in NKU
 
 <!---
 kaleidoscope-tech/kaleidoscope-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
